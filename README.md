@@ -12,7 +12,7 @@ The launch date of Kickstarter campaigns that fell under the 'theatre' category 
 
 ### Analysis of Outcomes Based on Goals
 Another factor that was examined in order to see if there was a relationship to campaign success was funding goal. In the analysis of this factor, I filtered by the 'plays' subcategory. Then, 12 buckets were created for goal amounts in the dataset. Campaign outcomes were again categorized by 'successful', 'failed', and 'canceled'. The results of this filtering and categorization are summarized in the line graph below.
-![Outcomes_vs_Goals](https://github.com/asliwinski23/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/asliwinski23/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals%20-%20Copy.png)
 
 ### Challenges and Difficulties Encountered
 I had a bit of trouble creating PivotTables to include all of my columns in both of my analyses. Another issue I faced when creating my 'Outcomes Based on Goal' chart above was getting the '5000 to 9999' bucket data to populate correctly in the chart. The data for this bucket continually showed 0. The solution to both of these issues was to repeat the process multiple times until either all of the column heads populated into my PivotTable sidebar or the goal data began to be pulled correctly. 
